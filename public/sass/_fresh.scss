@@ -1,0 +1,90 @@
+body {
+    background: #eee url(../img/bg_top.png) no-repeat center top;
+    padding: 2em 10%;
+}
+#content {
+    background: #fff;
+    box-shadow: 0 1px 2px $ltgray;
+    border-radius: 0 5px 5px;
+    padding: 15px 20px;
+}
+
+.main {
+    background: $dkgray;
+		li, a {
+			display:inline-block;
+		}
+		a {
+		    padding:0.4em 0.8em;
+		    border-left: 1px solid $dkgray;
+		    border-left: 1px solid #222;
+		    font-size: 12px;
+		    text-transform: uppercase;
+		    text-decoration: none;
+		    line-height: 40px;
+		    color: $ltgray;
+				&:hover,
+                &.active {
+				    background: $ecogreen;
+				    color: #fff;
+				}
+		}
+}
+
+h1 {
+	font-size: 1.4em;
+	line-height: 1em;
+}
+
+strong {
+	font-weight: bold;
+}
+
+form {
+	div {
+		background: $ltgray;
+		padding: 0.2em 0.4em;
+		margin-bottom: 2px;
+	}
+}
+legend {
+	font-weight: bold;
+	font-style: italic;
+}
+label {
+	display: inline-block;
+	width: 20%;
+
+    &.error {
+      font-weight:bold;
+      margin-left:2em;
+      padding-top:0.4em;
+      color: $red;
+      display:none;
+    }
+}
+
+input,
+select {
+  &.error {
+    border: 2px solid $red;
+  }
+}
+
+input[type=submit] {
+  font-size: 1em;
+}
+
+.note {
+  margin-left:20%;
+  font-size:0.9em;
+  color:#333;
+}
+
+
+
+.stop, .low .stop { color: $red; }
+.go   {
+  background: $bggreen;
+  color: $ecogreen;
+}

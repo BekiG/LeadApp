@@ -1,0 +1,220 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 17, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline; }
+
+/* line 22, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1; }
+
+/* line 24, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none; }
+
+/* line 26, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* line 28, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle; }
+
+/* line 30, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none; }
+  /* line 103, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+  q:before, q:after, blockquote:before, blockquote:after {
+    content: "";
+    content: none; }
+
+/* line 32, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none; }
+
+/* line 116, ../../../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block; }
+
+/*
+ * Sitewide vars defined here
+ */
+/* line 17, ../sass/_globals.scss */
+body {
+  font-family: Arial, Helvetica, sans-serif; }
+
+/* line 1, ../sass/_table.scss */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #333333; }
+  /* line 9, ../sass/_table.scss */
+  table.tablesorter thead tr .header {
+    background-image: url(../img/bg.gif);
+    background-repeat: no-repeat;
+    background-position: center right;
+    cursor: pointer; }
+  /* line 15, ../sass/_table.scss */
+  table.tablesorter thead tr .headerSortUp {
+    background-image: url(../img/asc.gif);
+    background-color: #cceae2; }
+  /* line 19, ../sass/_table.scss */
+  table.tablesorter thead tr .headerSortDown {
+    background-image: url(../img/desc.gif);
+    background-color: #cceae2; }
+
+/* line 27, ../sass/_table.scss */
+th {
+  background: #999999; }
+
+/* line 30, ../sass/_table.scss */
+th, td {
+  border: 1px solid #333333;
+  padding: 0.2em 0.4em; }
+
+/* line 36, ../sass/_table.scss */
+.low td {
+  background: #dedede;
+  color: #999999; }
+
+/* line 2, ../sass/_timepicker.scss */
+div.time-picker {
+  position: absolute;
+  height: 191px;
+  width: 4em;
+  /* needed for IE */
+  overflow: auto;
+  background: #fff;
+  border: 1px solid #aaa;
+  z-index: 99;
+  margin: 0; }
+  /* line 12, ../sass/_timepicker.scss */
+  div.time-picker ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; }
+  /* line 17, ../sass/_timepicker.scss */
+  div.time-picker li {
+    cursor: pointer;
+    height: 10px;
+    font: 12px/1 Helvetica, Arial, sans-serif;
+    padding: 4px 3px; }
+    /* line 23, ../sass/_timepicker.scss */
+    div.time-picker li.selected {
+      background: #0063CE;
+      color: #fff; }
+/* line 29, ../sass/_timepicker.scss */
+div.time-picker-12hours {
+  width: 6em;
+  /* needed for IE */ }
+
+/* line 1, ../sass/_fresh.scss */
+body {
+  background: #eeeeee url(../img/bg_top.png) no-repeat center top;
+  padding: 2em 10%; }
+
+/* line 5, ../sass/_fresh.scss */
+#content {
+  background: #fff;
+  box-shadow: 0 1px 2px #999999;
+  border-radius: 0 5px 5px;
+  padding: 15px 20px; }
+
+/* line 12, ../sass/_fresh.scss */
+.main {
+  background: #333333; }
+  /* line 14, ../sass/_fresh.scss */
+  .main li, .main a {
+    display: inline-block; }
+  /* line 17, ../sass/_fresh.scss */
+  .main a {
+    padding: 0.4em 0.8em;
+    border-left: 1px solid #333333;
+    border-left: 1px solid #222;
+    font-size: 12px;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 40px;
+    color: #999999; }
+    /* line 27, ../sass/_fresh.scss */
+    .main a:hover, .main a.active {
+      background: #529900;
+      color: #fff; }
+
+/* line 34, ../sass/_fresh.scss */
+h1 {
+  font-size: 1.4em;
+  line-height: 1em; }
+
+/* line 39, ../sass/_fresh.scss */
+strong {
+  font-weight: bold; }
+
+/* line 44, ../sass/_fresh.scss */
+form div {
+  background: #999999;
+  padding: 0.2em 0.4em;
+  margin-bottom: 2px; }
+
+/* line 50, ../sass/_fresh.scss */
+legend {
+  font-weight: bold;
+  font-style: italic; }
+
+/* line 54, ../sass/_fresh.scss */
+label {
+  display: inline-block;
+  width: 20%; }
+  /* line 58, ../sass/_fresh.scss */
+  label.error {
+    font-weight: bold;
+    margin-left: 2em;
+    padding-top: 0.4em;
+    color: #cc0000;
+    display: none; }
+
+/* line 69, ../sass/_fresh.scss */
+input.error,
+select.error {
+  border: 2px solid #cc0000; }
+
+/* line 74, ../sass/_fresh.scss */
+input[type=submit] {
+  font-size: 1em; }
+
+/* line 78, ../sass/_fresh.scss */
+.note {
+  margin-left: 20%;
+  font-size: 0.9em;
+  color: #333; }
+
+/* line 86, ../sass/_fresh.scss */
+.stop, .low .stop {
+  color: #cc0000; }
+
+/* line 87, ../sass/_fresh.scss */
+.go {
+  background: #cbe0b2;
+  color: #529900; }
