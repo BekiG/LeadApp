@@ -37,6 +37,7 @@ class FieldsSP {
     // 'Dakotah McGinlay' => 'Dakotah McGinlay',
 	// 'Daniel Walsh' => 'Daniel Walsh',
 	//'Danielle Finley' => 'Danielle Finley',
+	'Dakotah McGinlay' => 'Dakotah McGinlay',
 	'Darren Brannan' => 'Darren Brannan',
 	'Eduard Farfan' => 'Eduard Farfan',
 	// 'Finn Oyen' => 'Finn Oyen',

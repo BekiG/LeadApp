@@ -55,7 +55,7 @@ class FieldsSC {
     	'Chad Gerek' => 'Chad Gerek',
     	'Colin Corbin' => 'Colin Corbin',
         'Collin McGann' => 'Collin McGann',
-        // 'Dakotah McGinlay' => 'Dakotah McGinlay',
+        'Dakotah McGinlay' => 'Dakotah McGinlay',
         'Ian Melchior' => 'Ian Melchior',
         'Jake DiRe' => 'Jake DiRe',
         // 'Jenna Manchego' => 'Jenna Manchego',
