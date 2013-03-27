@@ -61,12 +61,15 @@ class FieldsSC {
         // 'Jenna Manchego' => 'Jenna Manchego',
         'Johnny Morris' => 'Johnny Morris',
 		'Lawrence Mendez' => 'Lawrence Mendez',
+		'Khafre Buxton' => 'Khafre Buxton',
+		'Maria Johnsen' => 'Maria Johnsen',
 		'Marshall Andrew' => 'Marshall Andrew',
 		'Mohamed Idris' => 'Mohamed Idris',
 		'Nolan Shockey' => 'Nolan Shockey',
 		'Raoul Vehill' => 'Raoul Vehill',
     	'Scott Wilde' => 'Scott Wilde',
 		'Trevor Woessner' => 'Trevor Woessner',
+		'Tyler Ward' => 'Tyler Ward',
         'Zachary McGinlay' => 'Zachary McGinlay'
     );
     public $lead_source = array(
