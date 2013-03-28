@@ -50,12 +50,14 @@ class FieldsSC {
     public $cmp_rep = array(
         '' => '--None--',
     	'Aaron Kinzig' => 'Aaron Kinzig',
+		'Alante Thalley' => 'Alante Thalley',
     	'Alex Valdez' => 'Alex Valdez',
 		// 'CJ McLaughlin' => 'CJ McLaughlin',
     	'Chad Gerek' => 'Chad Gerek',
     	'Colin Corbin' => 'Colin Corbin',
         'Collin McGann' => 'Collin McGann',
         'Dakotah McGinlay' => 'Dakotah McGinlay',
+		'Dustin Traphagan' => 'Dustin Traphagan',
         'Ian Melchior' => 'Ian Melchior',
         'Jake DiRe' => 'Jake DiRe',
         // 'Jenna Manchego' => 'Jenna Manchego',
@@ -68,9 +70,11 @@ class FieldsSC {
 		'Nolan Shockey' => 'Nolan Shockey',
 		'Raoul Vehill' => 'Raoul Vehill',
     	'Scott Wilde' => 'Scott Wilde',
+		'Taylor Duncan' => 'Taylor Duncan',
 		'Trevor Woessner' => 'Trevor Woessner',
 		'Tyler Ward' => 'Tyler Ward',
-        'Zachary McGinlay' => 'Zachary McGinlay'
+        'Zachary McGinlay' => 'Zachary McGinlay',
+		'Zack Judish' => 'Zack Judish'
     );
     public $lead_source = array(
         /*
