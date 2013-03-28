@@ -112,6 +112,8 @@ class FieldsSC {
 		*/
         'Other' => array(
             'Door-to-Door' => 'Door-to-Door',
+			'Retail Venue' => 'Retail Venue',
+			'Trade Show' => 'Trade Show',
             'Self Gen' => 'Self Gen',
             'Other' => 'Other (add location in notes)'
         )
