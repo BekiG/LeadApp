@@ -81,6 +81,9 @@ class FieldsSP {
 	'OSH - San Leandro' => 'OSH - San Leandro',
 	'OSH - San Lorenzo' => 'OSH - San Lorenzo',
 	'Self-Gen' => 'Self-Gen',
+	'Retail Venue' => 'Retail Venue',
+	'Trade Show' => 'Trade Show',
+	'Healthcare Event' => 'Healthcare Event',
 	'Other' => 'Other'
     );
 }
