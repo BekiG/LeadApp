@@ -25,6 +25,11 @@ class FieldsSC {
             'CA - Southern California Edison' => 'CA - Southern California Edison'
         ),
         */
+		'Arizona' => array(
+			'AZ - Arizona Public Service' => 'AZ - Arizona Public Service',
+			'AZ - Salt River Project' => 'AZ - Salt River Project'
+		),
+			
         'Colorado' => array(
             'CO - Xcel Energy' => 'CO - Xcel Energy',
             'CO - United Power' => 'CO - United Power',
