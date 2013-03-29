@@ -33,8 +33,9 @@ class Fields {
 
     public $lead_request = array(
         '' => '--None--',
-        'Phone Follow Up' => 'Phone Follow Up',
-        'Site Evaluation' => 'Site Evaluation',
+        'Onsite' => 'Onsite',
+        'Online' => 'Online',
+		'Phone' => 'Phone'
     );
 	
     public $lead_called = array(
