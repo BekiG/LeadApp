@@ -75,6 +75,7 @@ class FieldsSC {
 		'Maria Johnsen' => 'Maria Johnsen',
 		'Marshall Andrew' => 'Marshall Andrew',
 		'Mohamed Idris' => 'Mohamed Idris',
+		'Nathan Brown' => 'Nathan Brown',
 		'Nolan Shockey' => 'Nolan Shockey',
 		'Rachel Burris' => 'Rachel Burris',
 		'Raoul Vehill' => 'Raoul Vehill',
