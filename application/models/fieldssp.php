@@ -58,6 +58,7 @@ class FieldsSP {
 	'Mike Antonino' => 'Mike Antonino',
     'Mohamed Idris' => 'Mohamed Idris',
     'Nolan Shockey' => 'Nolan Shockey',
+	'Nycole Gomez' => 'Nycole Gomez',
 	'Paul Benschine' => 'Paul Benschine',
 	'Pete Grgurevic' => 'Pete Grgurevic',
 	'Raoul Vehill' => 'Raoul Vehill',
