@@ -57,6 +57,7 @@ class FieldsSP {
 	'Maria Johnsen' => 'Maria Johnsen',
 	// 'Mike Antonino' => 'Mike Antonino',
     'Mohamed Idris' => 'Mohamed Idris',
+	'Nathaniel Bishop' => 'Nathaniel Bishop',
     'Nolan Shockey' => 'Nolan Shockey',
 	'Nycole Gomez' => 'Nycole Gomez',
 	// 'Paul Benschine' => 'Paul Benschine',
