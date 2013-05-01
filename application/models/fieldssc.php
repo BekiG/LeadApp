@@ -64,6 +64,7 @@ class FieldsSC {
         'Collin McGann' => 'Collin McGann',
         'Dakotah McGinlay' => 'Dakotah McGinlay',
 	'Dustin Traphagan' => 'Dustin Traphagan',
+	'Helen Ragan' => 'Helen Ragan',
         'Ian Melchior' => 'Ian Melchior',
         'Jake DiRe' => 'Jake DiRe',
         // 'Jenna Manchego' => 'Jenna Manchego',
