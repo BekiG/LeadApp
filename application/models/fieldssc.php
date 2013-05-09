@@ -128,6 +128,7 @@ class FieldsSC {
 			'Retail Venue' => 'Retail Venue',
 			'Trade Show' => 'Trade Show',
             'Self Gen' => 'Self Gen',
+	    'Referral' => 'Referral',
             'Other' => 'Other (add location in notes)'
         )
     );
