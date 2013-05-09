@@ -70,6 +70,7 @@ class FieldsSC {
         // 'Jenna Manchego' => 'Jenna Manchego',
 	'Jeremy Janis' => 'Jeremy Janis',
         'Johnny Morris' => 'Johnny Morris',
+		'Josh Anderson' => 'Josh Anderson',
 	'Justin Cook' => 'Justin Cook',
 	'Lawrence Mendez' => 'Lawrence Mendez',
 	'Kelley Law' => 'Kelley Law',
@@ -127,8 +128,8 @@ class FieldsSC {
             'Door-to-Door' => 'Door-to-Door',
 			'Retail Venue' => 'Retail Venue',
 			'Trade Show' => 'Trade Show',
+			'Referral' => 'Referral',
             'Self Gen' => 'Self Gen',
-	    'Referral' => 'Referral',
             'Other' => 'Other (add location in notes)'
         )
     );
