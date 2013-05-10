@@ -68,6 +68,7 @@ class FieldsSC {
         'Ian Melchior' => 'Ian Melchior',
         'Jake DiRe' => 'Jake DiRe',
         // 'Jenna Manchego' => 'Jenna Manchego',
+		'Jeremy Hatten' => 'Jeremy Hatten',
 	'Jeremy Janis' => 'Jeremy Janis',
         'Johnny Morris' => 'Johnny Morris',
 		'Josh Anderson' => 'Josh Anderson',
