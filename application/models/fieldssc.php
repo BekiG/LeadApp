@@ -74,6 +74,7 @@ class FieldsSC {
 		'Josh Anderson' => 'Josh Anderson',
 	// 'Justin Cook' => 'Justin Cook',
 	'Lawrence Mendez' => 'Lawrence Mendez',
+	'Lindsey Sheppard' => 'Lindsey Sheppard',
 	'Kelley Law' => 'Kelley Law',
 	// 'Khafre Buxton' => 'Khafre Buxton',
 	'Maria Johnsen' => 'Maria Johnsen',
@@ -83,12 +84,14 @@ class FieldsSC {
 	'Nolan Shockey' => 'Nolan Shockey',
 	'Rachel Burris' => 'Rachel Burris',
 	'Raoul Vehill' => 'Raoul Vehill',
+	'Sally McCanne' => 'Sally McCanne',
 	'Samantha Casebolt' => 'Samantha Casebolt',
     	'Scott Wilde' => 'Scott Wilde',
 	'Taylor Duncan' => 'Taylor Duncan',
 	// 'Trevor Woessner' => 'Trevor Woessner',
 	'Tyler Ward' => 'Tyler Ward',
         'Zachary McGinlay' => 'Zachary McGinlay',
+		'William Odell' => 'William Odell',
 	// 'Zack Judish' => 'Zack Judish'
     );
     public $lead_source = array(
