@@ -59,6 +59,7 @@ class FieldsSC {
     	'Alex Valdez' => 'Alex Valdez',
 	// 'CJ McLaughlin' => 'CJ McLaughlin',
 	// 'Brian Shintaku' => 'Brian Shintaku',
+	'Arien Sorenson' => 'Arien Sorenson',
     	'Chad Gerek' => 'Chad Gerek',
     	// 'Colin Corbin' => 'Colin Corbin',
         'Collin McGann' => 'Collin McGann',
