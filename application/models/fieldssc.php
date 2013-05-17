@@ -133,6 +133,7 @@ class FieldsSC {
 		*/
         'Other' => array(
             'Door-to-Door' => 'Door-to-Door',
+			'Door Hanger' => 'Door Hanger', 
 			'Retail Venue' => 'Retail Venue',
 			'Trade Show' => 'Trade Show',
 			'Referral' => 'Referral',
