@@ -87,6 +87,7 @@ class FieldsSC {
 	'Raoul Vehill' => 'Raoul Vehill',
 	'Ryan Clark' => 'Ryan Clark',
 	// 'Sally McCanne' => 'Sally McCanne',
+	'Sandy Walkinshaw' => 'Sandy Walkinshaw',
 	'Samantha Casebolt' => 'Samantha Casebolt',
     	'Scott Wilde' => 'Scott Wilde',
 	'Taylor Duncan' => 'Taylor Duncan',
