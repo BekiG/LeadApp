@@ -74,6 +74,7 @@ class FieldsSC {
 	'Jeremy Janis' => 'Jeremy Janis',
         'Johnny Morris' => 'Johnny Morris',
 		'Josh Anderson' => 'Josh Anderson',
+		'Joshua Flynn' => 'Joshua Flynn',
 		'Josh Murphy' => 'Josh Murphy',
 		'JP Nelson' => 'JP Nelson',
 	// 'Justin Cook' => 'Justin Cook',
